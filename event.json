@@ -1,0 +1,23 @@
+{
+  "_bot": "notsetrn",
+  "_user": "ishan",
+  "question": "how many  rows are there",
+  "token":"rel-scrap-pupgEWu?kVpRmmxLGogI5CrzgdcDik?/mzTvTi-DToyG/6YU1!IuIoBiYF6xnMi1M!wocjZNN5NvOyAtjBo1OV0mZJQ!pdymCtn?QIGXCq=eBpWzIRfdv6Hi73W/rSTBP570zL9vFfECyWMmILzhF/BsBxqLyx/r0sS6HNgErWBA=k!PQX9iYV-jp?l5D/kjCxlYZbfKbE0Vqg26/6er2Ldh0jAOlKSp-dtOpo5/8ZOBJIeyssaUuJ",
+  "language": "ENGLISH",
+  "chat_history": false,
+  "source_documents": true,
+  "Sanitize": {
+      "answerLength": "SHORT",
+      "person": "1st",
+      "tone": "INFORMAL",
+      "formatting": "PARAGRAPH",
+      "language": "ENGLISH",
+      "custom":" "
+    },
+  "ChatGPT": {
+  "key": "YOUR_KEY_STRING",  
+  "model": "gpt-3.5-turbo",  
+  "knowledgeMix": ["GENERAL", "KNOWLEDGEBASE"],
+  "assistantId": "optional_assistant_id"  
+  }
+}
