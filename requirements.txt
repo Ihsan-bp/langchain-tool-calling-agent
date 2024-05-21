@@ -1,0 +1,11 @@
+boto3
+pycryptodome
+requests
+langchain_experimental
+langchain_openai
+langchain
+pandas
+openai
+pymongo
+python-dotenv
+openpyxl
