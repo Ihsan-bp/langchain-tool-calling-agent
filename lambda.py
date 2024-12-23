@@ -9,6 +9,7 @@ from Crypto.Util.Padding import pad, unpad
 import base64
 import logging
 import openai
+import fastapi
 
 #chain
 from langchain_openai import OpenAIEmbeddings
